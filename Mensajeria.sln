@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mesajeria.ClienteEjemplo.Escritorio", "Mesajeria.ClienteEjemplo.Escritorio\Mesajeria.ClienteEjemplo.Escritorio.csproj", "{39192A34-FA01-4E8F-9F5F-D4D84674F991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mensajeria.Comun", "Mensajeria.Comun\Mensajeria.Comun.csproj", "{844BE5D6-F8EA-4F6E-9F84-469122F73665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39192A34-FA01-4E8F-9F5F-D4D84674F991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39192A34-FA01-4E8F-9F5F-D4D84674F991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39192A34-FA01-4E8F-9F5F-D4D84674F991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39192A34-FA01-4E8F-9F5F-D4D84674F991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844BE5D6-F8EA-4F6E-9F84-469122F73665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844BE5D6-F8EA-4F6E-9F84-469122F73665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844BE5D6-F8EA-4F6E-9F84-469122F73665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844BE5D6-F8EA-4F6E-9F84-469122F73665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
